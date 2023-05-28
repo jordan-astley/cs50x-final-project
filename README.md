@@ -1,5 +1,5 @@
 
-# Dijkstra's algorithm implementation for Undirected Weighted Graphs
+# Dijkstra's Algorithm Implementation for Undirected Weighted Graphs
 #### Video Demo: <https://youtu.be/xSOCNimSzi0>
 #### Description:
 Implementation of Djikstra's Shortest Path Algorithm for undirected, weighted graphs.
